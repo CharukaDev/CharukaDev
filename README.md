@@ -36,11 +36,11 @@ Building Skills in Software & Web Development
 
 - 🤝 I’m looking for help with **Improving real-world project structure and backend integration**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/sameenlakshitha), [LinkedIn](https://www.linkedin.com/in/sameen-lakshitha-39872a3ab/)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/CharukaDev), [LinkedIn](https://www.linkedin.com/in/charuka-nuwantha-2517293ab/)
 
 - 💬 Ask me about **Frontend basics, beginner programming, and learning resources**
 
-- 📫 How to reach me **sameendev01@gmail.com**
+- 📫 How to reach me **smcharukanuwantha2@gmail.com**
 
 - ⚡ Fun fact **I prefer building skills quietly and consistently**
 
